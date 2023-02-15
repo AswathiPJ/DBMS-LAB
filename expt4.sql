@@ -8,7 +8,7 @@ category varchar(20),
 district varchar(20),
 state varchar(20)
 );
-
+  
 create table Student_rank(
 rollno int,
 mark int,
