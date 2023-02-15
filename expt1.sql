@@ -8,7 +8,7 @@ CREATE TABLE College(
 CREATE TABLE Faculty(
 	college_code VARCHAR(15),
 	faculty_code VARCHAR(15) PRIMARY KEY,
-	faculty_name VARCHAR(15),
+	faculty_name VARCHAR(15),  
 	qualification VARCHAR(15),
 	experience INT,
 	department VARCHAR(10),
